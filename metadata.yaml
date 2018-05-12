@@ -1,0 +1,42 @@
+_repo: Graham-s-Magazine-Vol.-XXXII-No.-4-April-1848_29239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Graham, George R.
+    alias: Graham, George Rex
+    birthdate: 1813
+    deathdate: 1894
+    gutenberg_agent_id: '33746'
+    url: http://www.gutenberg.org/2009/agents/33746
+  - agent_name: Conrad, Robert Taylor
+    aliases:
+    - Conrad, Robert T. (Robert Taylor)
+    - Conrad, R. T. (Robert Taylor)
+    birthdate: 1810
+    deathdate: 1858
+    gutenberg_agent_id: '33747'
+    url: http://www.gutenberg.org/2009/agents/33747
+description: ''
+gutenberg_bookshelf: Graham's Magazine
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Literature, Modern -- 19th century -- Periodicals'
+title: Graham's Magazine, Vol. XXXII No. 4, April 1848
+url: http://www.gutenberg.org/ebooks/29239
