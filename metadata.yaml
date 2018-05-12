@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '33747'
     url: http://www.gutenberg.org/2009/agents/33747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29239#Graham-s-Magazine-Vol.-XXXII-No.-4-April-1848
 gutenberg_bookshelf: Graham's Magazine
 gutenberg_issued: '2009-06-25'
 gutenberg_type: Text
